@@ -17,7 +17,7 @@
     },
 
     "SESSION_ID": {
-      "description": "Enter session-id here",
+      "description": "PRABATH-MD~QH9y2Y4C#DKvBjQDbZiA9KpPwU5SD69loTMtvLL3m1ECgn_q9pj8",
       "required": false
     },
     
@@ -26,7 +26,7 @@
       "required": true
     },
     "GITHUB_AUTH_TOKEN": {
-      "description": "Put your github auth-token here.",
+      "description": "3zTB3hfK9Z1gT8CEzJTHpcjIsdzUmG3w09CG",
       "required": true
     }   
 },
